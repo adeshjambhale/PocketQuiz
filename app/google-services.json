@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "392981957411",
+    "firebase_url": "https://pocket-quiz-bf821.firebaseio.com",
+    "project_id": "pocket-quiz-bf821",
+    "storage_bucket": "pocket-quiz-bf821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392981957411:android:0362862216a84330",
+        "android_client_info": {
+          "package_name": "com.example.adesh.pocketquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392981957411-91prp7t5h6d8f5gogbidd1qno96j7ak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOptTkoswQdXiv8iS8cNmqqmLrcBxCmeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

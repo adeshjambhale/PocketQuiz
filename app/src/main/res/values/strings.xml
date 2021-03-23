@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pocket Quiz</string>
+    <string name="Login" tools:ignore="DuplicateDefinition">Button</string>
+    <string name="guest" tools:ignore="DuplicateDefinition">Button</string>
+    <string name="Register" tools:ignore="DuplicateDefinition">Button</string>
+    <string name="pocket_quiz">Pocket Quiz</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="login">Login</string>
+    <string name="login_as_guest">Login as Guest</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_text">LOGIN</string>
+    <string name="username">Email</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="password">Password</string>
+    <string name="register_user">Register User</string>
+    <string name="register">Register</string>
+    <string name="subject_prompt">Choose a Subject</string>
+    <string name="play_quiz" tools:ignore="ExtraTranslation">Play Quiz</string>
+    <string name="select_subject" tools:ignore="ExtraTranslation">Select Subject</string>
+    <string name="confirm" tools:ignore="ExtraTranslation">Confirm</string>
+    <string name="question_text">Java is a ........... language.</string>
+    <string name="question_no">1</string>
+    <string name="_A">strongly typed</string>
+    <string name="_B">weakly typed</string>
+    <string name="_C">modertely typed</string>
+    <string name="_D">None of the above</string>
+    <string name="question">Question:</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="end_quiz">End quiz</string>
+    <string name="counter">5:00</string>
+    <string name="not_have_an_account_signup_here">Not have an account? Signup Here</string>
+
+
+    <string-array name="subject_arrays">
+        <item>JAVA</item>
+        <item>C++</item>
+        <item>Advance Java</item>
+    </string-array>
+
+</resources>

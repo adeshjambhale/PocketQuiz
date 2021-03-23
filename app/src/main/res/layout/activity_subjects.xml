@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black_red"
+    tools:context=".Subjects">
+
+    <Spinner
+        android:id="@+id/subjects"
+        android:layout_width="378dp"
+        android:layout_height="56dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="234dp"
+        android:background="@drawable/text_field"
+        android:entries="@array/subject_arrays"
+        android:prompt="@string/subject_prompt" />
+
+    <Button
+        android:id="@+id/btnPlayQuiz"
+        android:layout_width="200dp"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="223dp"
+        android:background="@drawable/red_button"
+        android:text="@string/play_quiz"
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="151dp"
+        android:text="@string/select_subject"
+        android:textColor="@android:color/white"
+        android:textSize="50sp" />
+
+</RelativeLayout>
